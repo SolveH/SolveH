@@ -1,23 +1,8 @@
-### Hi there 👋
+### Hello 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolveH&count_private=true&show_icons=true&theme=yeblu&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolveH&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+I'm a Norwegian fullstack software developer. My favourite programming language is Kotlin, and I'm quite skilled in Java as well. 
+I have experience developing REST APIs in Spring Boot and using tools like OpenAPI generator, JDBI, JPA, Spring 5 Reactive WebClient etc.
 
+I enjoy the heavy logical thinking required to do backend development and also seeing some visual results in frontend development, as well as understanding how both relate. I'm also interested in software architecture, security and establishing and following best practices throughout the whole project cycle. 
 
-<!--
-**SolveH/SolveH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolveH&count_private=true&show_icons=true&theme=moltack&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
