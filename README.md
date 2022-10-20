@@ -6,3 +6,6 @@ I have experience developing REST APIs in Spring Boot and using tools like OpenA
 I enjoy the logical thinking required to do backend development and also seeing some visual results in frontend development, as well as understanding how both relate. I'm also interested in software architecture, security and establishing and following best practices throughout the whole project cycle. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolveH&count_private=true&show_icons=true&theme=moltack&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SolveH&theme=gruvbox&layout=compact&hide_border=true"
+          alt="SolveH :: Top Langs by commit" />
